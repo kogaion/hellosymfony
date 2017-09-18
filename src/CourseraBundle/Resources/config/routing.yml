@@ -1,0 +1,3 @@
+coursera_login:
+  path: /coursera/login
+  defaults: { _controller: 'CourseraBundle\Presentation\Controller\LoginController:loginAction' }
